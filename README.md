@@ -26,6 +26,9 @@
 <a href="https://github.com/Vallek/web-links">
   <img align="center" style="margin:0.5rem;margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=vallek&repo=web-links&title_color=ffffff&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34">
 </a>
+<a href="https://github.com/Vallek/firefox-omni-no-oneoffs">
+  <img align="center" style="margin:0.5rem;margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=vallek&repo=firefox-omni-no-oneoffs&title_color=ffffff&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34">
+</a>
 
 ## 📈 Гитхаб Статистика
 <a href="https://github.com/braydoncoyer">
