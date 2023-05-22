@@ -19,7 +19,7 @@
 
 ## 📌 Мои проекты
 <a href="https://github.com/Vallek/vallek-custom-header">
-  <img class="project" title="Веб компонент шапки" src="https://github-readme-stats.vercel.app/api/pin/?username=vallek&repo=vallek-custom-header&title_color=ffffff&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34&hide_border=true">
+  <img id="project" title="Веб компонент шапки" src="https://github-readme-stats.vercel.app/api/pin/?username=vallek&repo=vallek-custom-header&title_color=ffffff&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34&hide_border=true">
 </a>
 <a href="https://vallek.github.io/Portfolio/pages/courses/web.html">
   <img title="Курс по фронтенду" style="margin:0.5rem;width:400px;height:160px;object-fit:cover;border-radius:5px;border:1px solid #e4e2e2;" src="https://vallek.github.io/Portfolio/img/works/web.jpg">
