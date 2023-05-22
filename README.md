@@ -25,7 +25,7 @@
   <img title="Курс по фронтенду" align="center" style="margin:0.5rem;width:400px;height:160px;object-fit:cover;border-radius:5px;border:1px solid #e4e2e2;" src="https://vallek.github.io/Portfolio/img/works/web.jpg">
 </a>
 <a href="https://github.com/Vallek/vallek-custom-header">
-  <img title="Лекция "Как эффективно искать информацию"" align="center" style="margin:0.5rem;width:400px;height:160px;object-fit:cover;border-radius:5px;border:1px solid #e4e2e2;" src="https://vallek.github.io/Portfolio/img/projects/search.png">
+  <img title="Лекция Как эффективно искать информацию" align="center" style="margin:0.5rem;width:400px;height:160px;object-fit:cover;border-radius:5px;border:1px solid #e4e2e2;" src="https://vallek.github.io/Portfolio/img/projects/search.png">
 </a>
 <a href="https://github.com/Vallek/vallek-custom-header">
   <img title="Подборка ссылок по фронтенду" align="center" style="margin:0.5rem;width:400px;height:160px;object-fit:cover;border-radius:5px;border:1px solid #e4e2e2;" src="https://vallek.github.io/Portfolio/img/projects/links.jpg">
