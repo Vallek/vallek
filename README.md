@@ -18,18 +18,10 @@
 </a>
 
 ## 📌 Мои проекты
-<a href="https://github.com/Vallek/vallek-custom-header">
-  <img title="Веб компонент шапки" style="margin:0.5rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=vallek&repo=vallek-custom-header&title_color=ffffff&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34">
-</a>
-<a href="https://vallek.github.io/Portfolio/pages/courses/web.html">
-  <img title="Курс по фронтенду" style="margin:0.5rem;" src="./assets/web.svg">
-</a>
-<a href="https://github.com/Vallek/vallek-custom-header">
-  <img title="Лекция Как эффективно искать информацию" style="margin:0.5rem;width:400px;height:160px;object-fit:cover;border-radius:5px;border:1px solid #e4e2e2;" src="https://vallek.github.io/Portfolio/img/projects/search.png">
-</a>
-<a href="https://github.com/Vallek/vallek-custom-header">
-  <img title="Подборка ссылок по фронтенду" style="margin:0.5rem;width:400px;height:160px;object-fit:cover;border-radius:5px;border:1px solid #e4e2e2;" src="https://vallek.github.io/Portfolio/img/projects/links.jpg">
-</a>
+* [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
+* [Подборка ссылок по фронтенду](https://vallek.github.io/web-links/index.html)
+* [Курс по фронтенду](https://vallek.github.io/Portfolio/pages/courses/web.html)
+* [Лекция Как эффективно искать информацию](https://vallek.github.io/Portfolio/pages/projects/search.html)
 
 ## 💼 Основные навыки
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)
