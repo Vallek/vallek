@@ -24,12 +24,12 @@
 * [Лекция Как эффективно искать информацию](https://vallek.github.io/Portfolio/pages/projects/search.html)
 
 ## 💼 Основные навыки
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=da575c)<br>
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)
-![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)
+[![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
+[![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#js)<br>
+[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#git)
+[![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#bem)
+[![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#figma)
 
 *а также*: образование, поиск информации и английский язык
 
