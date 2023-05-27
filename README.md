@@ -18,6 +18,7 @@
 </a>
 
 ## 📌 Мои проекты
+* [База знаний Web Dev Tips](https://github.com/Vallek/webdevtips)
 * [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
 * [Подборка ссылок по фронтенду](https://vallek.github.io/web-links/index.html)
 * [Курс по фронтенду](https://vallek.github.io/Portfolio/pages/courses/web.html)
