@@ -31,6 +31,7 @@
 [![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#git)
 [![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#bem)
 [![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#figma)
+[![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#jekyll)
 
 *а также*: образование, поиск информации и английский язык
 
