@@ -13,7 +13,7 @@
 * автором/руководителем курсов
 
 ## 📈 Гитхаб Статистика
-<a href="https://github.com/braydoncoyer">
+<a href="https://github.com/Vallek">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=vallek&show_icons=true&line_height=27&count_private=true&title_color=da575c&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34" alt="Vallek's GitHub Stats">
 </a>
 
