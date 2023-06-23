@@ -14,7 +14,7 @@
 
 ## 📈 Гитхаб Статистика
 <a href="https://github.com/Vallek">
-  <img style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vallek&hide_rank=true&show_icons=true&line_height=27&count_private=true&title_color=da575c&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34" alt="Vallek's GitHub Stats">
+  <img style="margin:0.5rem" src="https://github-readme-stats-vallek.vercel.app/api?username=vallek&hide_rank=true&show_icons=true&line_height=27&count_private=true&title_color=da575c&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34" alt="Vallek's GitHub Stats">
 </a>
 
 ## 📌 Мои проекты
