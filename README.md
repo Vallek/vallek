@@ -18,7 +18,7 @@
 </a>
 
 ## 📌 Мои проекты
-* [Animatable CSS Properties](vallek.github.io/animatable-css/)
+* [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
 * [База знаний Web Dev Tips](https://github.com/Vallek/webdevtips)
 * [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
 * [Подборка ссылок по фронтенду](https://vallek.github.io/web-links/index.html)
