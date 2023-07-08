@@ -1,37 +1,43 @@
-[![Vallek's GitHub Banner: Привет! Меня зовут Валера Hi! My name is Vallek.](./assets/github-header.jpg)](https://vallek.github.io/Portfolio/index.html)
+[![Vallek's GitHub Banner: Hi! My name is Vallek. Привет! Меня зовут Валера](./assets/github-header.jpg)](https://vallek.github.io/Portfolio/index.html)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_vallek)
 [![Codepen Badge](https://img.shields.io/badge/CodePen-profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/vallek)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-channel-informational?style=flat&logo=twitter&logoColor=white&color=e60000)](https://www.youtube.com/channel/UCzS4sE_0ltfSz6qx_FUCTdA)
 
-[ENGLISH VERSION](README.en-EN.md)
+[RUSSIAN VERSION](README.md)
 
-Я занимаюсь **фронтендом** и **образованием**. Верстаю веб-интерфейсы. Умею делать адаптивную, современную и доступную верстку. Работаю автором курсов, лектором, наставником. Провожу консультации. Кроме того меня интересует всё, что касается дизайна, организации и планирования работы. Люблю все улучшать и искать решение проблем.
+I work in **frontend** and **education**. I create modern, responsive web UI and care about usability, accessibility and best practices. I lean more towards front-of-the-frontend developing CSS layouts. I prefer native technologies and static site builders for my pet projects. But I'm always ready to learn other skills and tools. 
 
-Вы можете узнать больше на моем [💎портфолио💎](https://vallek.github.io/Portfolio/index.html).
+I love to share my knowledge and help others to overcome various difficulties. I create courses, live lectures and other educational materials. My projects often touch both on education and web development. I also do consulting.
 
-## 🔎 Я ищу работу
-* фротендером, верстальщиком (front-of-the-frontend), консультантом
-* автором/руководителем курсов
+I like to scrutinize things, find problems and ways to fix them.
 
-## Языки
-* Русский (родной)
+My goal is to create user experience of high quality. In the future I'm planning to create my own web education organization. I'm also interested in everything about ui design, optimizing and planning work. 
+
+You can learn more about me on my [💎portfolio💎](https://vallek.github.io/Portfolio/index.html).
+
+## 🔎 I'm looking for a job
+* frontend, web dev, consulting
+* courses author/lead
+
+## Languages
+* Russian (native)
 * English (read specs, write, sometimes speak:)
 
-## 📈 Гитхаб Статистика
+## 📈 Github Stats
 <a href="https://github.com/Vallek">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=vallek&hide_rank=true&show_icons=true&line_height=27&count_private=true&title_color=da575c&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34" alt="Vallek's GitHub Stats">
 </a>
 
-## 📌 Мои проекты
+## 📌 My projects
 * [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
-* [База знаний Web Dev Tips](https://github.com/Vallek/webdevtips)
-* [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
-* [Подборка ссылок по фронтенду](https://vallek.github.io/web-links/index.html)
-* [Курс по фронтенду](https://vallek.github.io/Portfolio/pages/courses/web.html)
-* [Лекция Как эффективно искать информацию](https://vallek.github.io/Portfolio/pages/projects/search.html)
+* [Web Dev Tips Knowledge Base](https://github.com/Vallek/webdevtips)
+* [Header Web Component](https://github.com/Vallek/vallek-custom-header)
+* [Frontend Links](https://vallek.github.io/web-links/index.html)
+* [Frontend Course](https://vallek.github.io/Portfolio/pages/courses/web.html)
+* [How to search info on frontend lecture](https://vallek.github.io/Portfolio/pages/projects/search.html)
 
-## 💼 Основные навыки
+## 💼 Main skills
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
 [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#js)<br>
@@ -40,7 +46,5 @@
 [![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#figma)
 [![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#jekyll)
 
-*а также*: образование, поиск информации и английский язык
-
-## 💬 Хотите предложить мне работу или у вас есть вопрос?
-Свяжитесь со мной [по 📧 почте](mailto:vwebdis@gmail.com) или через [телеграм](https://t.me/webval). До встречи!
+## 💬 Want to offer me a job or have a question?
+Write me [an 📧 email](mailto:vwebdis@gmail.com) or text me on [telegram](https://t.me/webval). See you!
