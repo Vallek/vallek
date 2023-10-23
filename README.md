@@ -31,6 +31,10 @@
 * [Курс по фронтенду](https://vallek.github.io/Portfolio/pages/courses/web.html)
 * [Лекция Как эффективно искать информацию](https://vallek.github.io/Portfolio/pages/projects/search.html)
 
+## 🧰 Мои стили
+* [Github Compact](https://github.com/Vallek/vallek-github-custom-css)
+* [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
+
 ## 💼 Основные навыки
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
 [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)

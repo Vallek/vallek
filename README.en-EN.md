@@ -37,6 +37,10 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/P
 * [Frontend Course](https://vallek.github.io/Portfolio/pages/courses/en/web.html)
 * [How to search info on frontend lecture](https://vallek.github.io/Portfolio/pages/projects/en/search.html)
 
+## 🧰 My Usersyles
+* [Github Compact](https://github.com/Vallek/vallek-github-custom-css)
+* [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
+
 ## 💼 Main skills
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
 [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
