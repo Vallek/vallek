@@ -1,4 +1,4 @@
-[![Vallek's GitHub Banner: Hi! My name is Vallek. Привет! Меня зовут Валера](./assets/github-header.jpg)](https://vallek.github.io/Portfolio/index.html)
+# Hi! My name is Val
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_vallek)
 [![Codepen Badge](https://img.shields.io/badge/CodePen-profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/vallek)
