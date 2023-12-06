@@ -24,6 +24,7 @@
 </a>
 
 ## 📌 Мои проекты
+* [Frontend Roadmap](https://vallek.github.io/frontend-roadmap-ru/)
 * [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
 * [База знаний Web Dev Tips](https://github.com/Vallek/webdevtips)
 * [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
