@@ -18,7 +18,7 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/P
 
 ## 🔎 I'm looking for a job
 * frontend, web dev, consulting
-* courses author/lead
+* courses author/lead/teacher
 
 ## Languages
 * Russian (native)
