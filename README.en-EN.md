@@ -35,7 +35,7 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/)
 * [Header Web Component](https://github.com/Vallek/vallek-custom-header)
 * [Frontend Links](https://vallek.github.io/web-links/en/index.html)
 * [Frontend Course](https://vallek.github.io/pages/courses/en/web.html)
-* [How to search info on frontend lecture](https://vallek.github.io/Portfolio/pages/projects/en/search.html)
+* [How to search info on frontend lecture](https://vallek.github.io/pages/projects/en/search.html)
 
 ## 🧰 My Usersyles
 * [Github Compact](https://github.com/Vallek/vallek-github-custom-css)

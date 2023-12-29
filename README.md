@@ -30,7 +30,7 @@
 * [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
 * [Подборка ссылок по фронтенду](https://vallek.github.io/web-links/index.html)
 * [Курс по фронтенду](https://vallek.github.io/pages/courses/web.html)
-* [Лекция Как эффективно искать информацию](https://vallek.github.io/Portfolio/pages/projects/search.html)
+* [Лекция Как эффективно искать информацию](https://vallek.github.io/pages/projects/search.html)
 
 ## 🧰 Мои стили
 * [Github Compact](https://github.com/Vallek/vallek-github-custom-css)
