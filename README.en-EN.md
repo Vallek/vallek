@@ -14,7 +14,7 @@ I like to scrutinize things, find problems and ways to fix them.
 
 My goal is to create user experience of high quality. In the future I'm planning to create my own web education organization. I'm also interested in everything about ui design, optimizing and planning work. 
 
-You can learn more about me on my [💎portfolio💎](https://vallek.github.io/Portfolio/index.html).
+You can learn more about me on my [💎portfolio💎](https://vallek.github.io/).
 
 ## 🔎 I'm looking for a job
 * frontend, web dev, consulting
@@ -34,7 +34,7 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/P
 * [Web Dev Tips Knowledge Base](https://vallek.github.io/webdevtips/en/)
 * [Header Web Component](https://github.com/Vallek/vallek-custom-header)
 * [Frontend Links](https://vallek.github.io/web-links/en/index.html)
-* [Frontend Course](https://vallek.github.io/Portfolio/pages/courses/en/web.html)
+* [Frontend Course](https://vallek.github.io/pages/courses/en/web.html)
 * [How to search info on frontend lecture](https://vallek.github.io/Portfolio/pages/projects/en/search.html)
 
 ## 🧰 My Usersyles
