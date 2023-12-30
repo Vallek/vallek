@@ -42,13 +42,13 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/)
 * [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
 
 ## 💼 Main skills
-[![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
-[![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#html)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#js)<br>
-[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#git)
-[![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#bem)
-[![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#figma)
-[![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/Portfolio/pages/site/skills.html#jekyll)
+[![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
+[![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#js)<br>
+[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#git)
+[![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#bem)
+[![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#figma)
+[![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#jekyll)
 
 ## 💬 Want to offer me a job or have a question?
 Write me [an 📧 email](mailto:vwebdis@gmail.com) or text me on [telegram](https://t.me/webval). See you!
