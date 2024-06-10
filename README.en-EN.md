@@ -32,6 +32,7 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/)
 ## 📌 My projects
 * [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
 * [Web Dev Tips Knowledge Base](https://vallek.github.io/webdevtips/en/)
+* [Shower presentation Fork with Mouse Navigation](https://github.com/Vallek/shower)
 * [Header Web Component](https://github.com/Vallek/vallek-custom-header)
 * [Frontend Links](https://vallek.github.io/web-links/en/index.html)
 * [Frontend Course](https://vallek.github.io/pages/courses/en/web.html)
