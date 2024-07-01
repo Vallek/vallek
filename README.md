@@ -24,12 +24,12 @@
 </a>
 
 ## 📌 Мои проекты
-* [Frontend Roadmap](https://vallek.github.io/frontend-roadmap-ru/)
 * [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
 * [Shower presentation Fork with Mouse Navigation](https://github.com/Vallek/shower)
-* [База знаний Web Dev Tips](https://github.com/Vallek/webdevtips)
 * [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
+* [База знаний Web Dev Tips](https://github.com/Vallek/webdevtips)
 * [Подборка ссылок по фронтенду](https://vallek.github.io/web-links/index.html)
+* [Frontend Roadmap](https://vallek.github.io/frontend-roadmap-ru/)
 * [Курс по фронтенду](https://vallek.github.io/pages/courses/web.html)
 * [Лекция Как эффективно искать информацию](https://vallek.github.io/pages/projects/search.html)
 
