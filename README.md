@@ -36,6 +36,7 @@
 ## 🧰 Мои стили
 * [Github Compact](https://github.com/Vallek/vallek-github-custom-css)
 * [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
+* [Youtube Custom Style](https://github.com/Vallek/vallek-youtube-custom-css)
 
 ## 💼 Основные навыки
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
