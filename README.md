@@ -18,10 +18,16 @@
 * Русский (родной)
 * English (read specs, write, sometimes speak:)
 
-## 📈 Гитхаб Статистика
-<a href="https://github.com/Vallek">
-  <img style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vallek&hide_rank=true&show_icons=true&line_height=27&count_private=true&title_color=da575c&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34" alt="Vallek's GitHub Stats">
-</a>
+## 💼 Основные навыки
+[![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
+[![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#js)<br>
+[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#git)
+[![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#bem)
+[![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#figma)
+[![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#jekyll)
+
+*а также*: образование, поиск информации и английский язык
 
 ## 📌 Мои проекты
 * [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
@@ -38,16 +44,10 @@
 * [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
 * [Youtube Custom Style](https://github.com/Vallek/vallek-youtube-custom-css)
 
-## 💼 Основные навыки
-[![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
-[![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#js)<br>
-[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#git)
-[![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#bem)
-[![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#figma)
-[![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#jekyll)
-
-*а также*: образование, поиск информации и английский язык
-
 ## 💬 Хотите предложить мне работу или у вас есть вопрос?
 Свяжитесь со мной [по 📧 почте](mailto:vwebdis@gmail.com) или через [телеграм](https://t.me/webval). До встречи!
+
+## 📈 Гитхаб Статистика
+<a href="https://github.com/Vallek">
+  <img style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vallek&hide_rank=true&show_icons=true&line_height=27&count_private=true&title_color=da575c&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34" alt="Vallek's GitHub Stats">
+</a>
