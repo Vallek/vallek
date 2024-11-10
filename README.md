@@ -43,6 +43,7 @@
 * [Github Compact](https://github.com/Vallek/vallek-github-custom-css)
 * [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
 * [Youtube Custom Style](https://github.com/Vallek/vallek-youtube-custom-css)
+* [Doka Custom Script & Style](https://github.com/Vallek/vallek-doka-search)
 
 ## 💬 Хотите предложить мне работу или у вас есть вопрос?
 Свяжитесь со мной [по 📧 почте](mailto:vwebdis@gmail.com) или через [телеграм](https://t.me/webval). До встречи!
