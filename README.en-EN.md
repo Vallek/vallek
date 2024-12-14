@@ -31,7 +31,10 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/)
 [![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#git)
 [![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#bem)
 [![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#figma)
-[![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#jekyll)
+[![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#jekyll)<br>
+[![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#node)
+[![](https://img.shields.io/badge/Tools-gulp-informational?style=flat&logo=gulp&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#build)
+[![](https://img.shields.io/badge/Tools-esbuild-informational?style=flat&logo=esbuild&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#build)
 
 ## 📌 My projects
 * [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
