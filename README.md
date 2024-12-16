@@ -19,16 +19,16 @@
 * English (read specs, write, sometimes speak:)
 
 ## 💼 Основные навыки
-[![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
-[![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#html)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#js)<br>
-[![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#git)
-[![](https://img.shields.io/badge/Tools-BEM-informational?style=flat&logo=bem&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#bem)
-[![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#figma)
-[![](https://img.shields.io/badge/Tools-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#jekyll)<br>
-[![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#node)
-[![](https://img.shields.io/badge/Tools-gulp-informational?style=flat&logo=gulp&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#build)
-[![](https://img.shields.io/badge/Tools-esbuild-informational?style=flat&logo=esbuild&logoColor=white&color=da575c)](https://vallek.github.io/pages/site/skills.html#build)
+[![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)](https://vallek.github.io/pages/site/skills.html#html)
+[![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=yellow)](https://vallek.github.io/pages/site/skills.html#html)
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange)](https://vallek.github.io/pages/site/skills.html#js)<br>
+[![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#git)
+[![](https://img.shields.io/badge/Code-BEM-informational?style=flat&logo=bem&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#bem)
+[![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#figma)
+[![](https://img.shields.io/badge/Code-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#jekyll)<br>
+[![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#node)
+[![](https://img.shields.io/badge/Code-gulp-informational?style=flat&logo=gulp&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#build)
+[![](https://img.shields.io/badge/Tools-esbuild-informational?style=flat&logo=esbuild&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#build)
 
 *а также*: образование, поиск информации и английский язык
 
@@ -53,5 +53,5 @@
 
 ## 📈 Гитхаб Статистика
 <a href="https://github.com/Vallek">
-  <img style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vallek&hide_rank=true&show_icons=true&line_height=27&count_private=true&title_color=da575c&text_color=c9cacc&icon_color=da575c&bg_color=1A2B34" alt="Vallek's GitHub Stats">
+  <img style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vallek&hide_rank=true&show_icons=true&line_height=27&count_private=true&title_color=darkgreen&text_color=c9cacc&icon_color=darkgreen&bg_color=1A2B34" alt="Vallek's GitHub Stats">
 </a>
