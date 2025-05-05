@@ -6,13 +6,9 @@
 
 [RUSSIAN VERSION](README.md)
 
-I work in **frontend** and **education**. I create modern, responsive web UI and care about usability, accessibility and best practices. I lean more towards front-of-the-frontend developing CSS layouts. I prefer native technologies and static site builders for my pet projects. But I'm always ready to learn other skills and tools. 
+I work in **web dev, frontend and education**. I freelance, teach and create educational projects. I care about usability and best practices. I aim to make modern, responsive web ui. I create courses, live lectures and other educational materials and also do consulting.
 
-I love to share my knowledge and help others to overcome various difficulties. I create courses, live lectures and other educational materials. My projects often touch both on education and web development. I also do consulting.
-
-I like to scrutinize things, find problems and ways to fix them.
-
-My goal is to create user experience of high quality. In the future I'm planning to create my own web education organization. I'm also interested in everything about ui design, optimizing and planning work. 
+My goal is to create web experience of high quality. I love to teach students same principles and help them to overcome various difficulties. I like to improve things and solve problems effectively. I'm also interested in everything about ui/ux, web design and work planning.
 
 You can learn more about me on my [💎portfolio💎](https://vallek.github.io/).
 
