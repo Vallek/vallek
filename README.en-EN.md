@@ -19,7 +19,7 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/)
 
 ## Languages
 * Russian (native)
-* English (read specs, write, sometimes speak:)
+* English (I read specs, write and sometimes speak:)
 
 ## 💼 Main skills
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)](https://vallek.github.io/pages/site/en/skills.html#html)
