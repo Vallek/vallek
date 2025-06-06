@@ -12,7 +12,7 @@
 
 Меня заботит качество веба. Люблю все улучшать и искать эффективное решение проблем. Кроме того меня интересует всё, что касается дизайна и планирования работы.
 
-Вы можете узнать больше на моем [💎портфолио💎](https://vallek.github.io/).
+Вы можете узнать больше на моем [💎портфолио💎](https://vallek.github.io/) и записаться на [консультацию](https://vallek.github.io/consult).
 
 ## 🔎 Я ищу работу
 * фротендером-верстальщиком, консультантом
@@ -30,10 +30,12 @@
 [![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#git)
 [![](https://img.shields.io/badge/Code-BEM-informational?style=flat&logo=bem&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#bem)
 [![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#figma)
-[![](https://img.shields.io/badge/Code-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#jekyll)<br>
+[![](https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=Node.js&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#node)
+<br>
 [![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#node)
 [![](https://img.shields.io/badge/Code-gulp-informational?style=flat&logo=gulp&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#build)
 [![](https://img.shields.io/badge/Tools-esbuild-informational?style=flat&logo=esbuild&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#build)
+[![](https://img.shields.io/badge/Code-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#jekyll)
 
 *а также*: образование, поиск информации и английский язык
 
