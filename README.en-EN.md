@@ -6,7 +6,7 @@
 
 [RUSSIAN VERSION](README.md)
 
-I work in **web dev, frontend and education**. I freelance, teach and create educational projects. I care about usability and best practices. I aim to make modern, responsive web ui. I create courses, live lectures and other educational materials and also do consulting.
+I work in [web dev](https://vallek.github.io/dev/), frontend and [education](https://vallek.github.io/pages/courses/web). I freelance, teach, [consult](https://vallek.github.io/en/consult.html) and create educational projects. I care about usability and best practices. I aim to make modern, responsive web ui. I create courses, live lectures and other educational materials and also do consulting.
 
 My goal is to create web experience of high quality. I love to teach students same principles and help them to overcome various difficulties. I like to improve things and solve problems effectively. I'm also interested in everything about ui/ux, web design and work planning.
 
