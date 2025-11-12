@@ -48,6 +48,7 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/)
 * [Github Compact](https://github.com/Vallek/vallek-github-custom-css)
 * [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
 * [Youtube Custom Style](https://github.com/Vallek/vallek-youtube-custom-css)
+* [Youtube Dark Theme](https://github.com/Vallek/vallek-youtube-dark-theme)
 * [Doka Custom Script & Style](https://github.com/Vallek/vallek-doka-search)
 
 ## 💬 Want to offer me a job or have a question?
