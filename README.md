@@ -26,7 +26,8 @@
 ## 💼 Основные навыки
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)](https://vallek.github.io/pages/site/skills.html#html)
 [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=orange)](https://vallek.github.io/pages/site/skills.html#html)
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)](https://vallek.github.io/pages/site/skills.html#js)<br>
+[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)](https://vallek.github.io/pages/site/skills.html#js)
+[![](https://img.shields.io/badge/Tools-wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=blue)](https://vallek.github.io/pages/site/skills.html#cms)<br>
 [![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#git)
 [![](https://img.shields.io/badge/Code-BEM-informational?style=flat&logo=bem&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#bem)
 [![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/skills.html#figma)
