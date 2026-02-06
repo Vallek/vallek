@@ -21,7 +21,7 @@
 
 ## Языки
 * Русский (родной)
-* English (I read specs, write and sometimes speak:)
+* English (I can read specs, write and sometimes speak:)
 
 ## 💼 Основные навыки
 [![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)](https://vallek.github.io/pages/site/skills.html#html)
