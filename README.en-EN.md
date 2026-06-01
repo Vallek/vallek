@@ -13,7 +13,7 @@ My goal is to create web experience of high quality. I love to teach students sa
 You can learn more about me on my [💎portfolio💎](https://vallek.github.io/).
 
 ## 🔎 I'm looking for a job
-* frontend (front-of-the-frontend), consulting
+* webdev, frontend (front-of-the-frontend), consulting
 * courses author/lead/teacher
 * freelance
 
