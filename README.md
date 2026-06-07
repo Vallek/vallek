@@ -57,6 +57,9 @@
 * [Youtube Dark Theme](https://github.com/Vallek/vallek-youtube-dark-theme)
 * [Doka Custom Script & Style](https://github.com/Vallek/vallek-doka-search)
 
+## 🤝 Поддержать донатом
+Если вам понравилось и помогло что-то из моих проектов, то вы можете [поддержать меня на бусти](https://boosty.to/vallek))
+
 ## 💬 Хотите предложить мне работу или у вас есть вопрос?
 Свяжитесь со мной [по 📧 почте](mailto:vwebdis@gmail.com) или через [телеграм](https://t.me/webval). До встречи!
 

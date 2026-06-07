@@ -52,6 +52,9 @@ You can learn more about me on my [💎portfolio💎](https://vallek.github.io/)
 * [Youtube Dark Theme](https://github.com/Vallek/vallek-youtube-dark-theme)
 * [Doka Custom Script & Style](https://github.com/Vallek/vallek-doka-search)
 
+## 🤝 Support me with donation
+You can [support me of boosty](https://boosty.to/vallek) if you like some of my projects or they helped you)
+
 ## 💬 Want to offer me a job or have a question?
 Write me [an 📧 email](mailto:vwebdis@gmail.com) or text me on [telegram](https://t.me/webval). See you!
 
