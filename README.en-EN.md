@@ -10,7 +10,7 @@ I work in [web dev](https://vallek.github.io/dev/), frontend and [education](htt
 
 My goal is to create web experience of high quality. I love to teach students same principles and help them to overcome various difficulties. I like to improve things and solve problems effectively. I'm also interested in everything about ui/ux, web design and work planning.
 
-You can learn more about me on my [💎portfolio💎](https://vallek.github.io/).
+You can learn more about me on my [portfolio](https://vallek.github.io/).
 
 ## 🔎 I'm looking for a job
 * webdev, frontend (front-of-the-frontend), consulting
