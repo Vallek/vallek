@@ -37,21 +37,24 @@ You can learn more about me on my [portfolio](https://vallek.github.io/).
 [![](https://img.shields.io/badge/Code-Jekyll-informational?style=flat&logo=jekyll&logoColor=white&color=darkgreen)](https://vallek.github.io/pages/site/en/skills.html#jekyll)
 
 ## 📌 My projects
+### 🎓 Education
 * [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
-* [Shower presentation Fork with Mouse Navigation](https://github.com/Vallek/shower)
-* [Header Web Component](https://github.com/Vallek/vallek-custom-header)
 * [Web Dev Tips Knowledge Base](https://vallek.github.io/webdevtips/en/)
 * [Frontend Links](https://vallek.github.io/web-links/en/index.html)
 * [Frontend Course](https://vallek.github.io/pages/courses/en/web.html)
 * [How to search info on frontend lecture](https://vallek.github.io/pages/projects/en/search.html)
 
-## 🧰 My Usersyles
+### 🧰 Components
+* [Shower presentation Fork with Mouse Navigation](https://github.com/Vallek/shower)
+* [Header Web Component](https://github.com/Vallek/vallek-custom-header)
+* [Universal Dark Theme](https://github.com/Vallek/vallek-dark-theme)
+
+### 🎨 My Usersyles
 * [Github Compact](https://github.com/Vallek/vallek-github-custom-css)
 * [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
 * [Youtube Custom Style](https://github.com/Vallek/vallek-youtube-custom-css)
 * [Youtube Dark Theme](https://github.com/Vallek/vallek-youtube-dark-theme)
 * [Doka Custom Script & Style](https://github.com/Vallek/vallek-doka-search)
-* [Universal Dark Theme](https://github.com/Vallek/vallek-dark-theme)
 
 ## 🤝 Support me with donation
 You can [support me of boosty](https://boosty.to/vallek) if you like some of my projects or they helped you)

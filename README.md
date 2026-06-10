@@ -41,22 +41,25 @@
 *а также*: образование, поиск информации и английский язык
 
 ## 📌 Мои проекты
+### 🎓 Образование
 * [Animatable CSS Properties](https://vallek.github.io/animatable-css/)
-* [Shower presentation Fork with Mouse Navigation](https://github.com/Vallek/shower)
-* [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
-* [База знаний Web Dev Tips](https://github.com/Vallek/webdevtips)
 * [Подборка ссылок по фронтенду](https://vallek.github.io/web-links/index.html)
 * [Frontend Roadmap](https://vallek.github.io/frontend-roadmap-ru/)
+* [База знаний Web Dev Tips](https://github.com/Vallek/webdevtips)
 * [Курс по фронтенду](https://vallek.github.io/pages/courses/web.html)
 * [Лекция Как эффективно искать информацию](https://vallek.github.io/pages/projects/search.html)
 
-## 🧰 Мои стили
+### 🧰 Компоненты
+* [Shower presentation Fork with Mouse Navigation](https://github.com/Vallek/shower)
+* [Веб компонент шапки](https://github.com/Vallek/vallek-custom-header)
+* [Universal Dark Theme](https://github.com/Vallek/vallek-dark-theme)
+
+### 🎨 Мои стили
 * [Github Compact](https://github.com/Vallek/vallek-github-custom-css)
 * [Firefox Custom Style](https://github.com/Vallek/vallek-firefox-custom-css)
 * [Youtube Custom Style](https://github.com/Vallek/vallek-youtube-custom-css)
 * [Youtube Dark Theme](https://github.com/Vallek/vallek-youtube-dark-theme)
 * [Doka Custom Script & Style](https://github.com/Vallek/vallek-doka-search)
-* [Universal Dark Theme](https://github.com/Vallek/vallek-dark-theme)
 
 ## 🤝 Поддержать донатом
 Если вам понравилось и помогло что-то из моих проектов, то вы можете [поддержать меня на бусти](https://boosty.to/vallek))
