@@ -56,6 +56,7 @@
 * [Youtube Custom Style](https://github.com/Vallek/vallek-youtube-custom-css)
 * [Youtube Dark Theme](https://github.com/Vallek/vallek-youtube-dark-theme)
 * [Doka Custom Script & Style](https://github.com/Vallek/vallek-doka-search)
+* [Universal Dark Theme](https://github.com/Vallek/vallek-dark-theme)
 
 ## 🤝 Поддержать донатом
 Если вам понравилось и помогло что-то из моих проектов, то вы можете [поддержать меня на бусти](https://boosty.to/vallek))

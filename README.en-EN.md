@@ -51,6 +51,7 @@ You can learn more about me on my [portfolio](https://vallek.github.io/).
 * [Youtube Custom Style](https://github.com/Vallek/vallek-youtube-custom-css)
 * [Youtube Dark Theme](https://github.com/Vallek/vallek-youtube-dark-theme)
 * [Doka Custom Script & Style](https://github.com/Vallek/vallek-doka-search)
+* [Universal Dark Theme](https://github.com/Vallek/vallek-dark-theme)
 
 ## 🤝 Support me with donation
 You can [support me of boosty](https://boosty.to/vallek) if you like some of my projects or they helped you)
