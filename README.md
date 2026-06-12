@@ -1,8 +1,9 @@
 # Привет! Меня зовут Валера
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_vallek)
-[![Codepen Badge](https://img.shields.io/badge/CodePen-profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/vallek)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-channel-informational?style=flat&logo=twitter&logoColor=white&color=e60000)](https://www.youtube.com/channel/UCzS4sE_0ltfSz6qx_FUCTdA)
+[![Codepen Badge](https://img.shields.io/badge/CodePen-profile-blue)](https://codepen.io/vallek)
+[![Userstyles.world Badge](https://img.shields.io/badge/Userstyles-profile-green)](https://userstyles.world/user/vallek)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-channel-red?logo=youtube&color=e60000)](https://www.youtube.com/@webvallek)
+[![boosty Badge](https://img.shields.io/badge/boosty-profile-orange)](https://boosty.to/vallek)
 
 [ENGLISH VERSION](README.en-EN.md)
 
